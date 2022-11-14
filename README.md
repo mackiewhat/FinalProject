@@ -1,2 +1,4 @@
 # FinalProject
-Repository for Python Basics for Data Science Project
+
+## Editing the File
+It's a markdown file in this repository. 
